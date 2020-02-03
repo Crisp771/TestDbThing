@@ -1,0 +1,16 @@
+C:\repos\ConsoleApp1\Project2\bin\Debug\Project2.dll.config
+C:\repos\ConsoleApp1\Project2\bin\Debug\Project2.dll
+C:\repos\ConsoleApp1\Project2\bin\Debug\Project2.pdb
+C:\repos\ConsoleApp1\Project2\bin\Debug\EntityFramework.dll
+C:\repos\ConsoleApp1\Project2\bin\Debug\EntityFramework.SqlServer.dll
+C:\repos\ConsoleApp1\Project2\bin\Debug\EntityFramework.xml
+C:\repos\ConsoleApp1\Project2\bin\Debug\EntityFramework.SqlServer.xml
+C:\repos\ConsoleApp1\Project2\obj\Debug\Project2.csproj.CopyComplete
+C:\repos\ConsoleApp1\Project2\obj\Debug\Project2.dll
+C:\repos\ConsoleApp1\Project2\obj\Debug\Project2.pdb
+C:\Repos\ConsoleApp1\Project2\bin\Debug\Project1.dll
+C:\Repos\ConsoleApp1\Project2\bin\Debug\Project1.pdb
+C:\Repos\ConsoleApp1\Project2\bin\Debug\Project1.dll.config
+C:\Repos\ConsoleApp1\Project2\obj\Debug\Project2.csprojAssemblyReference.cache
+C:\Repos\ConsoleApp1\Project2\obj\Debug\Project2.Migrations.Plants.resources
+C:\Repos\ConsoleApp1\Project2\obj\Debug\Project2.csproj.GenerateResource.cache
